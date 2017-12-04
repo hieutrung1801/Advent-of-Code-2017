@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9711dc09-26ef-4e9d-832d-c162d3ea0b4a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Day 1.py" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="9711dc09-26ef-4e9d-832d-c162d3ea0b4a" name="Default" comment="Change project structure. Now getting the puzzle from file isntead of type in directly." />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,8 +29,8 @@
       <file leaf-file-name="Day 1.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Day 1/Day 1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="360">
+              <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -49,6 +46,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Hieu Trung Huynh &lt;hieutrung180196@gmail.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
@@ -185,6 +187,14 @@
       <option name="presentableId" value="Default" />
       <updated>1512347911014</updated>
     </task>
+    <task id="LOCAL-00001" summary="Change project structure. Now getting the puzzle from file isntead of type in directly.">
+      <created>1512353019073</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1512353019073</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -217,6 +227,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change project structure. Now getting the puzzle from file isntead of type in directly." />
+    <option name="LAST_COMMIT_MESSAGE" value="Change project structure. Now getting the puzzle from file isntead of type in directly." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -291,8 +305,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Day 1/Day 1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="360">
+          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
           <folding />
         </state>
       </provider>
